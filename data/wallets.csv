@@ -1,0 +1,51 @@
+wallet_id,full_name,phone,tier,kyc_status,account_state,state
+WAL001,Adaeze Okafor,08095822412,tier1,verified,active,Rivers
+WAL002,Babatunde Musa,08028728463,tier2,verified,active,Akwa Ibom
+WAL003,Chukwuemeka Eze,08021668732,tier2,verified,active,Abuja
+WAL004,Damilola Johnson,08041227216,tier2,verified,active,Kano
+WAL005,Ekezie Ibrahim,08097226012,tier2,verified,active,Kaduna
+WAL006,Fatima Sani,08047338124,tier2,verified,active,Borno
+WAL007,Gbenga Adeleke,08066722344,tier1,verified,suspended,Cross River
+WAL008,Hauwa Bello,08055176955,tier1,verified,active,Enugu
+WAL009,Ifeanyi Chukwu,08056164955,tier2,pending,active,Imo
+WAL010,Jamilu Danjuma,08081971316,tier1,pending,active,Abuja
+WAL011,Kemi Eze,08049349722,tier2,verified,active,Borno
+WAL012,Ladi Fashola,08087490893,tier1,verified,active,Oyo
+WAL013,Musa Garba,08048840994,tier3,pending,active,Borno
+WAL014,Ngozi Hassan,08061019678,tier1,verified,active,Enugu
+WAL015,Obiageli Ige,08059684848,tier1,verified,closed,Imo
+WAL016,Pius Jibril,08096977837,tier1,verified,active,Anambra
+WAL017,Queeneth Kalu,08042857966,tier1,verified,active,Cross River
+WAL018,Rotimi Lawal,08095899313,tier2,verified,active,Ogun
+WAL019,Seun Mohammed,08017507864,tier1,verified,active,Ogun
+WAL020,Tunde Nwosu,08045935572,tier1,pending,active,Anambra
+WAL021,Uche Obi,08052235350,tier1,verified,active,Akwa Ibom
+WAL022,Victor Peters,08096282117,tier1,verified,active,Rivers
+WAL023,Wunmi Quadri,08085345555,tier2,verified,suspended,Kaduna
+WAL024,Xola Raji,08088320463,tier1,verified,active,Cross River
+WAL025,Yetunde Suleiman,08078387461,tier1,pending,active,Borno
+WAL026,Zainab Taiwo,08030514014,tier2,pending,active,Kaduna
+WAL027,Amina Umeh,08018526544,tier1,verified,active,Delta
+WAL028,Bola Vandu,08043744231,tier3,pending,active,Lagos
+WAL029,Chioma Wali,08025374874,tier2,verified,active,Ogun
+WAL030,Dauda Yakubu,08096028436,tier1,verified,active,Kano
+WAL031,Emeka Abubakar,08010435578,tier3,pending,active,Rivers
+WAL032,Funke Badmus,08077187530,tier2,verified,active,Abuja
+WAL033,Garba Coker,08093926371,tier1,verified,active,Oyo
+WAL034,Halima Dike,08030513739,tier1,verified,active,Cross River
+WAL035,Ibrahim Emenike,08081182864,tier3,verified,active,Delta
+WAL036,Jumoke Femi,08025014631,tier3,pending,active,Borno
+WAL037,Kunle Gana,08051273847,tier1,verified,active,Anambra
+WAL038,Lawal Haruna,08020570592,tier1,verified,closed,Abuja
+WAL039,Mahmud Idowu,08081498611,tier2,verified,active,Delta
+WAL040,Nneka James,08083793389,tier1,verified,active,Oyo
+WAL041,Olu Kehinde,08038427073,tier3,pending,suspended,Imo
+WAL042,Patience Luka,08051837852,tier1,verified,active,Enugu
+WAL043,Rashid Momoh,08079467853,tier1,verified,active,Lagos
+WAL044,Sola Nwachukwu,08012823170,tier2,verified,active,Rivers
+WAL045,Toyin Ogbonna,08019528530,tier2,verified,active,Abuja
+WAL046,Usman Pius,08014216175,tier3,verified,active,Rivers
+WAL047,Violet Rauf,08099788677,tier1,verified,active,Imo
+WAL048,Wale Salami,08086644106,tier2,verified,active,Delta
+WAL049,Yakubu Tanko,08064634663,tier1,verified,active,Kaduna
+WAL050,Zara Udo,08066851760,tier1,pending,active,Lagos

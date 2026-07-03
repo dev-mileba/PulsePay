@@ -1,0 +1,31 @@
+merchant_id,business_name,category,settlement_acct,status
+MER001,QuickMart Stores,retail,3775320897,active
+MER002,Lagos Food Co.,food_beverage,5555296751,active
+MER003,TechHub Nigeria,retail,8422620843,active
+MER004,EduPlus Academy,education,1469306919,active
+MER005,HealthFirst Clinic,health,1822873088,active
+MER006,PowerBolt Electronics,retail,7598297060,active
+MER007,FreshMeals Delivery,food_beverage,5897045684,active
+MER008,BuildRight Hardware,retail,6083042422,active
+MER009,FashionPoint NG,retail,2986972437,active
+MER010,AutoParts Express,retail,5618742930,active
+MER011,SunEnergy Solar,utilities,1420514789,active
+MER012,BookWorld Nigeria,retail,2015242176,suspended
+MER013,MediCare Pharmacy,health,7040502394,active
+MER014,AgroFresh Farms,retail,3067418686,active
+MER015,ConnectTel Recharge,utilities,9008612465,active
+MER016,PetrolPlus Station,utilities,4875962612,active
+MER017,CleanWave Laundry,retail,6002078344,active
+MER018,HomeDecor Hub,retail,6971815972,active
+MER019,FitZone Gym,health,8667072205,active
+MER020,GreenLeaf Restaurant,food_beverage,6520103410,active
+MER021,PrintPro Business,retail,3090237817,active
+MER022,BlueSky Airlines,retail,6110572428,active
+MER023,SecureNet Insurance,utilities,9841118422,active
+MER024,MiniMart Convenience,retail,9851745355,active
+MER025,ChefBox Catering,food_beverage,2346922426,active
+MER026,LearnSmart EdTech,education,9805294274,active
+MER027,OmniPay POS,utilities,3281169403,suspended
+MER028,JumiaMall Retail,retail,3181106786,active
+MER029,CoolAir HVAC,utilities,4656488400,active
+MER030,ZenSpa Wellness,health,9884231465,active

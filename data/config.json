@@ -1,0 +1,64 @@
+{
+  "reporting_period_start": "2026-06-01",
+  "reporting_period_end": "2026-06-30",
+  "valid_txn_types": [
+    "payment",
+    "transfer",
+    "wallet_funding",
+    "withdrawal"
+  ],
+  "valid_currencies": [
+    "NGN",
+    "USD",
+    "GBP",
+    "EUR"
+  ],
+  "valid_channels": [
+    "mobile_app",
+    "ussd",
+    "web",
+    "pos"
+  ],
+  "fx_rates_to_ngn": {
+    "NGN": 1,
+    "USD": 1580,
+    "GBP": 1990,
+    "EUR": 1710
+  },
+  "fee_rules": {
+    "payment": {
+      "rate": 0.015,
+      "cap_ngn": 2000
+    },
+    "transfer": {
+      "rate": 0.01,
+      "cap_ngn": 1000
+    },
+    "wallet_funding": {
+      "rate": 0.0,
+      "cap_ngn": 0
+    },
+    "withdrawal": {
+      "rate": 0.005,
+      "cap_ngn": 500
+    }
+  },
+  "fraud_thresholds": {
+    "single_txn_ngn": 5000000,
+    "hourly_count": 10
+  },
+  "tier_limits_ngn": {
+    "tier1": {
+      "single": 50000,
+      "daily": 100000
+    },
+    "tier2": {
+      "single": 500000,
+      "daily": 1000000
+    },
+    "tier3": {
+      "single": 5000000,
+      "daily": 10000000
+    }
+  }
+}
